@@ -4,3 +4,4 @@ def fun(x):
     print('%s,this is a good boy' %x)
 fun('tom')
 fun('sary')
+fun('first')
